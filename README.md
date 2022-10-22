@@ -2,7 +2,7 @@
 I am a hobbyist programmer and data analyst, this github profile holds some of my coding projects and experiments.
 
 I currently work as a dispatcher in a large distribution and logistics company.
-I am a very curious person by nature which is why I have a wide array of interests, this profile is one of my creative outlets.
+I am a very inquisitive person by nature which is why I have a wide array of interests, this profile is one of my creative outlets.
 
 <!--
 **llaltxll/llaltxll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
