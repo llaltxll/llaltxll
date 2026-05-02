@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m a Cybersecurity Specialist and Software Developer driven by a deep curiosity for how complex systems work—and how they break.
+I’m a Cybersecurity Specialist and Software Developer driven by a deep curiosity for how complex systems work, and how they break.
 This profile serves as a playground for my technical experiments, ranging from low-level systems through data analysis to high-level architecture.
 
 - 🔭 Focusing on Software Architecture & Technical Project Management.
