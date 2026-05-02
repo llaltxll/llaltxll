@@ -1,8 +1,10 @@
 ### Hi there 👋
-I am a cyber security and computing enthusiast, this github profile holds some of my coding projects and experiments.
-I am a very inquisitive person by nature which is why I have a wide array of interests, this profile is one of my creative outlets.
+I’m a Cybersecurity Specialist and Software Developer driven by a deep curiosity for how complex systems work—and how they break.
+This profile serves as a playground for my technical experiments, ranging from low-level systems through data analysis to high-level architecture.
 
-- 🌱 I’m currently learning Cyber research
+- 🔭 Focusing on Software Architecture & Technical Project Management.
+- 💬 Ask me about cyber security.
+- 👯 I’m looking to collaborate on game preservation.
 <!--
 **llaltxll/llaltxll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
